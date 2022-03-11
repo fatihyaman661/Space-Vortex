@@ -1,0 +1,7 @@
+This is a very early level of a dream which is yet to be perfected a lot.
+
+This program will one day be a very large and capable open source program which does static analysis. One day, it may even do cfd or heat analysis as well. We shall see.
+
+It's main aim is aerospace structures, yet theoratically it will be able to be used for any type of application.
+
+It will only use open source stuff. Starting with julia and its packages.
